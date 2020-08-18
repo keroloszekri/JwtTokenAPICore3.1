@@ -1,0 +1,36 @@
+C:\Users\KEROLOS\Desktop\FaceApp\FaceApp\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\KEROLOS\Desktop\FaceApp\FaceApp\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\KEROLOS\Desktop\FaceApp\FaceApp\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\KEROLOS\Desktop\FaceApp\FaceApp\bin\Debug\netcoreapp2.1\FaceApp.deps.json
+C:\Users\KEROLOS\Desktop\FaceApp\FaceApp\bin\Debug\netcoreapp2.1\FaceApp.runtimeconfig.json
+C:\Users\KEROLOS\Desktop\FaceApp\FaceApp\bin\Debug\netcoreapp2.1\FaceApp.runtimeconfig.dev.json
+C:\Users\KEROLOS\Desktop\FaceApp\FaceApp\bin\Debug\netcoreapp2.1\FaceApp.dll
+C:\Users\KEROLOS\Desktop\FaceApp\FaceApp\obj\Debug\netcoreapp2.1\FaceApp.RazorAssemblyInfo.cache
+C:\Users\KEROLOS\Desktop\FaceApp\FaceApp\obj\Debug\netcoreapp2.1\FaceApp.RazorAssemblyInfo.cs
+C:\Users\KEROLOS\Desktop\FaceApp\FaceApp\obj\Debug\netcoreapp2.1\FaceApp.AssemblyInfoInputs.cache
+C:\Users\KEROLOS\Desktop\FaceApp\FaceApp\obj\Debug\netcoreapp2.1\FaceApp.AssemblyInfo.cs
+C:\Users\KEROLOS\Desktop\FaceApp\FaceApp\obj\Debug\netcoreapp2.1\FaceApp.RazorTargetAssemblyInfo.cache
+C:\Users\KEROLOS\Desktop\FaceApp\FaceApp\obj\Debug\netcoreapp2.1\FaceApp.genruntimeconfig.cache
+C:\Users\KEROLOS\Desktop\FaceApp\FaceApp\bin\Debug\netcoreapp2.1\FaceApp.pdb
+C:\Users\KEROLOS\Desktop\FaceApp\FaceApp\obj\Debug\netcoreapp2.1\FaceApp.dll
+C:\Users\KEROLOS\Desktop\FaceApp\FaceApp\obj\Debug\netcoreapp2.1\FaceApp.pdb
+C:\Users\KEROLOS\Desktop\FaceApp\FaceApp\obj\Debug\netcoreapp2.1\FaceApp.csproj.CoreCompileInputs.cache
+C:\Users\KEROLOS\Desktop\FaceApp\FaceApp\obj\Debug\netcoreapp2.1\FaceApp.csprojAssemblyReference.cache
+F:\Full Stack\Task\Jwt Test Token\FaceApp\bin\Debug\netcoreapp2.1\appsettings.Development.json
+F:\Full Stack\Task\Jwt Test Token\FaceApp\bin\Debug\netcoreapp2.1\appsettings.json
+F:\Full Stack\Task\Jwt Test Token\FaceApp\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+F:\Full Stack\Task\Jwt Test Token\FaceApp\bin\Debug\netcoreapp2.1\FaceApp.deps.json
+F:\Full Stack\Task\Jwt Test Token\FaceApp\bin\Debug\netcoreapp2.1\FaceApp.runtimeconfig.json
+F:\Full Stack\Task\Jwt Test Token\FaceApp\bin\Debug\netcoreapp2.1\FaceApp.runtimeconfig.dev.json
+F:\Full Stack\Task\Jwt Test Token\FaceApp\bin\Debug\netcoreapp2.1\FaceApp.dll
+F:\Full Stack\Task\Jwt Test Token\FaceApp\bin\Debug\netcoreapp2.1\FaceApp.pdb
+F:\Full Stack\Task\Jwt Test Token\FaceApp\obj\Debug\netcoreapp2.1\FaceApp.csprojAssemblyReference.cache
+F:\Full Stack\Task\Jwt Test Token\FaceApp\obj\Debug\netcoreapp2.1\FaceApp.csproj.CoreCompileInputs.cache
+F:\Full Stack\Task\Jwt Test Token\FaceApp\obj\Debug\netcoreapp2.1\FaceApp.RazorAssemblyInfo.cache
+F:\Full Stack\Task\Jwt Test Token\FaceApp\obj\Debug\netcoreapp2.1\FaceApp.RazorAssemblyInfo.cs
+F:\Full Stack\Task\Jwt Test Token\FaceApp\obj\Debug\netcoreapp2.1\FaceApp.AssemblyInfoInputs.cache
+F:\Full Stack\Task\Jwt Test Token\FaceApp\obj\Debug\netcoreapp2.1\FaceApp.AssemblyInfo.cs
+F:\Full Stack\Task\Jwt Test Token\FaceApp\obj\Debug\netcoreapp2.1\FaceApp.RazorTargetAssemblyInfo.cache
+F:\Full Stack\Task\Jwt Test Token\FaceApp\obj\Debug\netcoreapp2.1\FaceApp.dll
+F:\Full Stack\Task\Jwt Test Token\FaceApp\obj\Debug\netcoreapp2.1\FaceApp.pdb
+F:\Full Stack\Task\Jwt Test Token\FaceApp\obj\Debug\netcoreapp2.1\FaceApp.genruntimeconfig.cache
